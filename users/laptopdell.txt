@@ -1,0 +1,52 @@
+Interface interaction
+Quality of the keyboard and touchpad is always important, and we devote an entire section to these vital user-interface tools.
+We look for keyboards that offer solid key feel. To be more specific, we look for keys with a crisp action that quickly rebound when a finger is removed. Keys should not wobble or skew when pressed along a key’s side instead of the center, and there should be no flex along the width or length of the keyboard when a key is completely depressed.
+Touchpads need to have buttons with similar qualities, preferably in the form of separate left and right keys. Alternatives are acceptable if their quality holds up. The pad itself should respond quickly to touch and allow a finger to glide across it without friction. Multi-touch gestures should be included, and we look for them to operate without a jerky or uncertain feel.
+Most of our reviews barely mention touchscreen quality because most implementations provide nearly identical feel. Instead, we spend time talking about related features like a convertible laptop’s hinge or a touchscreen all-in-one’s software.
+
+Display and audio impressions
+Though the design of a laptop is in the eye of the beholder, the display and audio systems on these products straddle the line between what is subjectively pleasant and what can be objectively measured.
+We attempt to incorporate a bit of both in to our judgment of a these components. Using the laptop naturally reveals the quality of the display, but there are also tests used to provide a measurable impression. We use the Spyder5Elite color calibration tool and its built-in quality measurement suite to test the display’s brightness, contrast, color gamut, color accuracy, and gamma curve.
+Audio quality is judged by a number of subjective tests. A typical benchmark includes YouTube HD, podcasts, and streaming music. During our tests, we adjust the volume to see how (or if) performance degrades as the speakers become louder.
+
+The test chamber
+Most of our judgments take place during real-world use. For example, we usually use the laptop being reviewed to actually write the review, meaning the reviews you read on our site are written on the laptop pictured in the review’s photos. When it comes to performance benchmarks, however, each laptop has to spend some time alone, cranking through an array of tests.
+Our processor suite includes:
+	GeekBench (single-core and multi-core)
+	7-Zip
+	Handbrake (encoding a four minute, 20 second 4K trailer into H.265)
+Our hard drive suite includes:
+	CrystalDiskMark
+	HD Tune
+Our gaming suite includes:
+	3DMark 11
+	Counter-Strike: Global Offensive
+	Fallout 4
+	Battlefield 4
+	Crysis 3
+	Deus-Ex: Mankind Divided
+A lasting impression
+We use three tests to judge battery life. In all situations, we calibrate the display’s brightness level to 100 lux using a lightmeter, and also disable any power settings that might dim or turn off the display during testing. We record battery life results using Window’s built in battery recording feature.
+
+Peacekeeper, a web browser benchmark, is our most demanding test. Though no longer relevant from a performance standpoint, its constant cycle through numerous high-load web browser features makes it a tough test. We test systems using Chrome.
+
+Next up, we have our iMacro test. This uses the iMacro extension for Chrome to load several websites in a loop. A pause between each load provides downtime. This better simulates how real users browse the web.
+
+Finally, we end with our video test, which plays a 1080p movie clip on loop using Window’s built-in media player until the battery dies. This tends to be the least demanding test in our suite.
+We also run these tests on MacOS systems, but we use Mac default applications (like Safari). With ChromeOS, we only conduct the Peacekeeper and iMacro tests.
+
+
+
+Hot stuff
+Heat is always an issue for laptops. Fast processors give off plenty of warmth while operating, but the slim frame of a laptop leaves little room for airflow. The way a notebook deals with the buildup of heat directly impacts usability.
+Ideally, a laptop should not warm significantly on either the top or the bottom, but it’s rare that this is the case. We take note of where a product warms as we use it both on a desktop and in our laps and measure hot-spots with an infrared thermometer. The results are often referenced in our reviews.
+In addition to this real-world testing, we use stress test programs such as 7-Zip Benchmark and Furmark to simulate the maximum possible load that a laptop might encounter. While doing this, we also make note of reported CPU and GPU temperatures to see if they become hot enough to be a potential source of instability.
+We also measure fan noise during our temperature tests. We use a decibel meter in an environment where ambient noise does not exceed 38 decibels. Noise is measured during idle, at full CPU load, and at full GPU load.
+
+
+Reaching a verdict
+The most difficult part of every review is the verdict. This is where we decide if we’re going to recommend a laptop and determine how the outcome of each section fits together to form a final score.
+Verdicts are usually handed down from the perspective of what the laptop is built to accomplish. Poor battery life on a gaming laptop won’t significantly impact the score, but an ultraportable with the same problem could lose several points.
+Competition must also be considered. Laptops are becoming better with each passing year as each brand tries to better its peers. Most of today’s laptops offer an experience that is reasonably pleasant, and none fail as a computer. But most people need just one laptop, and they want the best available, which is where the little details – such as key feel and fan noise – make a difference
+Value is also important. We don’t expect to see a high-resolution display and quad-core processor in a laptop that ships at $500, and we won’t knock it for lacking those features. A laptop that costs $1,500, however, will lose points if it skimps on hardware.
+We hope that everyone reading our reviews will be able to understand our thoughts and our conclusion. Even if you don’t agree with our final verdict, the information.
